@@ -1,0 +1,128 @@
+[
+  {
+    "code": "math",
+    "number": "113",
+    "name": "Прикладна математика",
+    "budgetLimit": 3,
+    "contractLimit": 3,
+    "isClosed": false,
+    "isBudgeted": false,
+    "isContracted": false,
+    "isOrdered": false,
+    "coefficients": {
+      "ukrainian": 0.3,
+      "math": 0.5,
+      "english": 0.3,
+      "history": 0.2,
+      "physics": 0.4,
+      "chemistry": 0.2,
+      "biology": 0.2
+    },
+    "Coefficients1": null
+  },
+  {
+    "code": "pi",
+    "number": "121",
+    "name": "Програмна інженерія",
+    "budgetLimit": 6,
+    "contractLimit": 3,
+    "isClosed": false,
+    "isBudgeted": false,
+    "isContracted": false,
+    "isOrdered": false,
+    "coefficients": {
+      "ukrainian": 0.3,
+      "math": 0.5,
+      "english": 0.3,
+      "history": 0.2,
+      "physics": 0.4,
+      "chemistry": 0.2,
+      "biology": 0.2
+    },
+    "Coefficients1": null
+  },
+  {
+    "code": "info",
+    "number": "122",
+    "name": "Інформатика",
+    "budgetLimit": 5,
+    "contractLimit": 3,
+    "isClosed": false,
+    "isBudgeted": false,
+    "isContracted": false,
+    "isOrdered": false,
+    "coefficients": {
+      "ukrainian": 0.3,
+      "math": 0.5,
+      "english": 0.3,
+      "history": 0.2,
+      "physics": 0.4,
+      "chemistry": 0.2,
+      "biology": 0.2
+    },
+    "Coefficients1": null
+  },
+  {
+    "code": "ai",
+    "number": "122",
+    "name": "Штучний інтелект",
+    "budgetLimit": 5,
+    "contractLimit": 3,
+    "isClosed": false,
+    "isBudgeted": false,
+    "isContracted": false,
+    "isOrdered": false,
+    "coefficients": {
+      "ukrainian": 0.3,
+      "math": 0.5,
+      "english": 0.3,
+      "history": 0.2,
+      "physics": 0.4,
+      "chemistry": 0.2,
+      "biology": 0.2
+    },
+    "Coefficients1": null
+  },
+  {
+    "code": "ci",
+    "number": "123",
+    "name": "Комп'ютерна інженерія",
+    "budgetLimit": 4,
+    "contractLimit": 3,
+    "isClosed": false,
+    "isBudgeted": false,
+    "isContracted": false,
+    "isOrdered": false,
+    "coefficients": {
+      "ukrainian": 0.3,
+      "math": 0.5,
+      "english": 0.3,
+      "history": 0.2,
+      "physics": 0.4,
+      "chemistry": 0.2,
+      "biology": 0.2
+    },
+    "Coefficients1": null
+  },
+  {
+    "code": "safe",
+    "number": "125",
+    "name": "Управління інформаційною безпекою",
+    "budgetLimit": 3,
+    "contractLimit": 3,
+    "isClosed": false,
+    "isBudgeted": false,
+    "isContracted": false,
+    "isOrdered": false,
+    "coefficients": {
+      "ukrainian": 0.3,
+      "math": 0.5,
+      "english": 0.3,
+      "history": 0.2,
+      "physics": 0.4,
+      "chemistry": 0.2,
+      "biology": 0.2
+    },
+    "Coefficients1": null
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "name": "Петро",
+      "surname": "Степаненко",
+      "login": "admin",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Василь",
+      "surname": "Дмитренко",
+      "login": "admin1",
+      "password": "123456"
+    },
+    {
+      "id": "3",
+      "name": "1",
+      "surname": "1",
+      "login": "1",
+      "password": ""
+    }
+]
