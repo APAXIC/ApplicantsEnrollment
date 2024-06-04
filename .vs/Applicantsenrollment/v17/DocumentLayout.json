@@ -1,12 +1,58 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\VS Projects\\ApplicantsEnrollment\\ApplicantsEnrollment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351CAF22-5CF2-45F8-8FD2-2EA04E742AA7}|ApplicantsEnrollment\\Kursass.csproj|d:\\vs projects\\applicantsenrollment\\applicantsenrollment\\applicantsenrollment\\data\\applications.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{351CAF22-5CF2-45F8-8FD2-2EA04E742AA7}|ApplicantsEnrollment\\Kursass.csproj|solutionrelative:applicantsenrollment\\data\\applications.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351CAF22-5CF2-45F8-8FD2-2EA04E742AA7}|ApplicantsEnrollment\\Kursass.csproj|d:\\vs projects\\applicantsenrollment\\applicantsenrollment\\applicantsenrollment\\data\\courses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{351CAF22-5CF2-45F8-8FD2-2EA04E742AA7}|ApplicantsEnrollment\\Kursass.csproj|solutionrelative:applicantsenrollment\\data\\courses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "applications.json",
+              "DocumentMoniker": "D:\\VS Projects\\ApplicantsEnrollment\\ApplicantsEnrollment\\ApplicantsEnrollment\\Data\\applications.json",
+              "RelativeDocumentMoniker": "ApplicantsEnrollment\\Data\\applications.json",
+              "ToolTip": "D:\\VS Projects\\ApplicantsEnrollment\\ApplicantsEnrollment\\ApplicantsEnrollment\\Data\\applications.json",
+              "RelativeToolTip": "ApplicantsEnrollment\\Data\\applications.json",
+              "ViewState": "AQIAALMCAAAAAAAAAAAiwL0CAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T21:44:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "courses.json",
+              "DocumentMoniker": "D:\\VS Projects\\ApplicantsEnrollment\\ApplicantsEnrollment\\ApplicantsEnrollment\\Data\\courses.json",
+              "RelativeDocumentMoniker": "ApplicantsEnrollment\\Data\\courses.json",
+              "ToolTip": "D:\\VS Projects\\ApplicantsEnrollment\\ApplicantsEnrollment\\ApplicantsEnrollment\\Data\\courses.json",
+              "RelativeToolTip": "ApplicantsEnrollment\\Data\\courses.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T21:44:34.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

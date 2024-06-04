@@ -699,7 +699,7 @@
     "applicationStatus": "Допущено",
     "isConfirmed": false,
     "readyForContract": true,
-    "canAffordContract": true,
+    "canAffordContract": false,
     "priority": "К",
     "grades": {
       "math": 192,

@@ -110,3 +110,4 @@ D:\VS Projects\ApplicantsEnrollment\ApplicantsEnrollment\ApplicantsEnrollment\ob
 D:\VS Projects\ApplicantsEnrollment\ApplicantsEnrollment\ApplicantsEnrollment\obj\Debug\net8.0-windows\Kursass.pdb
 D:\VS Projects\ApplicantsEnrollment\ApplicantsEnrollment\ApplicantsEnrollment\obj\Debug\net8.0-windows\Kursass.genruntimeconfig.cache
 D:\VS Projects\ApplicantsEnrollment\ApplicantsEnrollment\ApplicantsEnrollment\obj\Debug\net8.0-windows\ref\Kursass.dll
+D:\VS Projects\ApplicantsEnrollment\ApplicantsEnrollment\ApplicantsEnrollment\obj\Debug\net8.0-windows\Kursass.sourcelink.json

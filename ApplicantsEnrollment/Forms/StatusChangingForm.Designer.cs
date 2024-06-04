@@ -307,7 +307,7 @@
             MinimumSize = new Size(816, 489);
             Name = "StatusChangingForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "ApplicationStatusChangingForm";
+            Text = "Розгляд заяви";
             ResumeLayout(false);
             PerformLayout();
         }

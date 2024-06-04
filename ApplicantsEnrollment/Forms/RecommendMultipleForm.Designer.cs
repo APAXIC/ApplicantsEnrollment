@@ -115,7 +115,7 @@
             MinimumSize = new Size(551, 232);
             Name = "RecommendMultipleForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "RecommendMultipleForm";
+            Text = "Рекомендація заяв";
             ResumeLayout(false);
             PerformLayout();
         }
